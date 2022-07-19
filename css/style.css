@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Aladin&display=swap');
+
+h2{
+    text-align: center;
+}
+.salida{
+text-transform: capitalize;
+text-align: center;
+text-weight: bold;
+border: 1px solid black;
+width: 30%;
+height: 8rem;
+margin: 1rem 35%;
+}
+#color-div{
+text-align: center
+}%
